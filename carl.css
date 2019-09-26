@@ -1,0 +1,59 @@
+
+
+body{
+    background-color: white;
+    height:1000px;
+}
+
+h1{
+    text-align: center;
+    right: 200px;
+}
+
+ul {
+    margin: 0;
+    padding:0;
+    overflow: hidden;
+    background-color: #333;
+    width:1400px;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: inline;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+  li{
+      margin:150px;
+      display: inline;
+  }
+
+footer{
+    display: inline-block;
+    background-color: gray;
+    position: absolute;
+    bottom: 0;
+    width:100%;
+    padding:0;
+}
+
+b{
+    display: inline;
+    color: white;
+    
+}
+br {
+    display: inline;
+    color: white;
+}
