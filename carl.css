@@ -44,10 +44,10 @@ h1{
 footer{
     display: inline-block;
     background-color: gray;
-    position: absolute;
-    bottom: 0;
-    width:100%;
+    position: relative;
+    bottom: 30px;
     padding:0;
+    
 }
 
 b{
