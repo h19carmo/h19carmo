@@ -1,7 +1,7 @@
 
 
 body{
-    background-image: url("/Lich\ King.jpg");
+    background-image: url("/Space.jpg");
     width: 1400px;
     height: 800px;
     margin: 0 auto;
@@ -31,7 +31,7 @@ margin: 2 00px
     border-bottom-right-radius: 60px;
     border-top-left-radius: 60px;
     border-top-right-radius: 60px;
-    border: solid black 4px;
+    border: solid white 1px;
 }
 
 .wrapper {
